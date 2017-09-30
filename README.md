@@ -39,3 +39,6 @@ https://www.facebook.com/artofdn/
 
 Instagram Sehifemiz:
 https://www.instagram.com/art_of_dn_/
+
+Youtube Sehifemiz:
+https://www.youtube.com/channel/UCVyzNb1HZ8fX3pfVbuEPriw
