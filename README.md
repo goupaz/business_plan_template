@@ -7,7 +7,7 @@ Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler
 
 - [Biz kimik?](#biz-kimik)
 - [Əlaqə](#Əlaqə)
-- [Məhsullar](/Mehsullar#məhsullar)
+- [Məhsullar](/Mehsullar/README.md#məhsullar)
 - [Komandamız](/Komanda)
 - [Biznes Plan ](/BiznesPlan)
 
