@@ -5,12 +5,12 @@ Layihəmizin uğurlu bir biznesə çevrilməsi üçün lazım olan əsas tələb
 |No| Ad | Vəzifə |
 |------|-------|---------|
 |1| [Şəhriyar Məmmədov](#Şəhriyar-məmmədov-layihə-rəhbəri) |Layihə Rəhbəri|
-|2| [Tural Mehtiyev]() |Satış & Marketing Rəhbəri|
-|3| [Gunay Nemət]() |Maliyyə Rəhbəri|
-|4| [Daşqın Əhmədzadə]() |Texniki Qrup Rəhbəri|
-|5| [Namazov İlqar]() |Texniki mütəxəsis|
-|6| [Nigar Yusupova]() |Texniki mütəxəsis|
-|7| [Əhmədzadə Coşqun]() |Texniki mütəxəsis|
+|2| [Tural Mehtiyev](#tural-mehtiyev-satış--marketing-rəhbəri) |Satış & Marketing Rəhbəri|
+|3| [Gunay Nemət](#gunay-nemət-maliyyə-rəhbəri) |Maliyyə Rəhbəri|
+|4| [Daşqın Əhmədzadə](#daşqın-Əhmədzadə-texniki-qrup-rəhbəri) |Texniki Qrup Rəhbəri|
+|5| [Namazov İlqar](#namazov-İlqar-texniki-mütəxəssis) |Texniki mütəxəsis|
+|6| [Nigar Yusupova](#nigar-yusupova-texniki-mütəxəssis) |Texniki mütəxəsis|
+|7| [Əhmədzadə Coşqun](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Texniki mütəxəsis|
 
 
 
