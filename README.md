@@ -2,7 +2,7 @@
 
 Dəyərli Ideya sahibi,
 
-Layihəni Paylaşmaqda məqsədimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla gorüşə daha hazırlıqlı cıxması üçündür.
+Layihəni Paylaşmaqda məqsədimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla gorüşə daha hazırlıqlı çıxması üçündür.
 Əsasən, ATV telekanalında yayımlanan Ideyaqazandı verlişini hədəfləsə də, layihənizdə maraqlı olan istənilən investor üçün istifadə oluna biler.
 
 - [Biz kimik?](#biz-kimik)
