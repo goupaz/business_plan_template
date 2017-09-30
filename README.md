@@ -5,7 +5,7 @@ Dəyərli Ideya sahibi,
 Layihəni Paylaşmaqda meqsedimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla gorüşə daha hazirliqli cixmasi ucundur.
 Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler investor ucun istifade oluna biler.
 
-- [Biz kimik?](##Biz kimik?)
+- [Biz kimik?](#biz-kimik)
 - [Əlaqə](#Əlaqə)
 - [Məhsullar](/Mehsullar)
 - [Komandamız](/Komanda)
