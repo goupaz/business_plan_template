@@ -1,2 +1,2 @@
 
-![Alt text](Biznes_Plan_Numune.pdf?raw=true "Biznes Plan numune")
+[a relative link](Biznes_Plan_Numune.pdf)
