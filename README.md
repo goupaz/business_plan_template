@@ -2,8 +2,8 @@
 
 Dəyərli Ideya sahibi,
 
-Layihəni Paylaşmaqda meqsedimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla gorüşə daha hazirliqli cixmasi ucundur.
-Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler investor ucun istifade oluna biler.
+Layihəni Paylaşmaqda məqsədimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla gorüşə daha hazırlıqlı cıxması üçündür.
+Əsasən, ATV telekanalında yayımlanan Ideyaqazandı verlişini hədəfləsə də, layihənizdə maraqlı olan istənilən investor üçün istifadə oluna biler.
 
 - [Biz kimik?](#biz-kimik)
 - [Əlaqə](#Əlaqə)
@@ -27,8 +27,8 @@ Fərqliliyi və özəlliyi sevən xanım və bəylərimizi yüksək keyfiyyətli
 Dünya bazarında Azərbaycan brendini uğurla təmsil etmək. <br /> 
 18-28 yaş həddində olan gənclərimizin ən azı bir məhsulumuzdan istifadəsi.
 
-### Obyektivlər
-Hədəflərimiz çox sadədir səhmdarlarımızda  gəlirli biznesimizə inam yaratmaq.
+### Obyektiv
+Hədəfimiz çox sadədir səhmdarlarımızda  gəlirli biznesimizə inam yaratmaq.
 
 
 ## Əlaqə
