@@ -1,7 +1,7 @@
 ## Layihə Komandamız
 
 |No| Ad | Vəzifə |Etraflı|
-|------|-------|---------|
+|------|-------|---------|---------|
 |1| Şəhriyar Məmmədov |Layihə Rəhbəri|
 |2| Daşqın Əhmədzadə |Texniki Qrup Rəhbəri|
 |3| Gunay Nemət |Maliyyə Rəhbəri|
