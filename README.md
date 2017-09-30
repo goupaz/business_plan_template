@@ -4,7 +4,7 @@ Deyerli Ishtirakcilar,
 
 Layiheni Paylashmaqda meqsedimiz ideyasi olan Genclerimizin(SIZIN!) Investorlarla gorushe daha hazirliqli cixmasi ucundur.
 Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler investor ucun istifade oluna biler.
-Eyni zamanda, layihede maraqli olan investor ve komandamiza qoshulmaq isteyen genclerle istenilen emekdashliqda maraqliyiq.
+
 
 
 © 2017 DNART. Bütün hüquqlar qorunur.
@@ -29,6 +29,12 @@ Hədəflərimiz çox sadədir səhmdarlarımızda  gəlirli biznesimizə inam ya
 
 
 ### Elaqe
+
+1. Deyerli Mushterilerimiz
+2. Layihede maraqli olan investorlar
+3. Komandamiza qoshulmaq isteyen gencler
+
+Buyurub, ashagidaki elaqe vasiteleri ile layihemize destek ola biler:
 
 ```bash
 Mob: +994556104823
