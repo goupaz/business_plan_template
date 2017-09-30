@@ -5,6 +5,8 @@ Deyerli Ishtirakcilar,
 Layiheni Paylashmaqda meqsedimiz ideyasi olan Genclerimizin(SIZIN!) Investorlarla gorushe daha hazirliqli cixmasi ucundur.
 Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler investor ucun istifade oluna biler.
 
+![Alt text](Biznes_Plan_Numune.pdf?raw=true "Biznes Plan numune")
+
 Ugurlar! <br /> 
 
 © 2017 DNART. Bütün hüquqlar qorunur.
@@ -38,11 +40,11 @@ Mob: +994556104823
 
 ```
 
-_Facebook Səhifəmiz:_
+Facebook Səhifəmiz:
 https://www.facebook.com/artofdn/
 
-_Instagram Səhifəmiz:_
+Instagram Səhifəmiz:
 https://www.instagram.com/art_of_dn_/
 
-_Youtube Səhifəmiz:_
+Youtube Səhifəmiz:
 https://www.youtube.com/channel/UCVyzNb1HZ8fX3pfVbuEPriw
