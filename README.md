@@ -6,10 +6,10 @@ Layihəni Paylaşmaqda məqsədimiz ideyası olan Gənclərimizin(SƏNİN!) Inve
 Əsasən, ATV telekanalında yayımlanan Ideyaqazandı verlişini hədəfləsə də, layihənizdə maraqlı olan istənilən investor üçün istifadə oluna bilər.
 
 - [Biz kimik?](#biz-kimik)
-- [Əlaqə](#Əlaqə)
 - [Məhsullar](/Mehsullar/README.md#məhsullar)
 - [Komandamız](/Komanda)
 - [Biznes Plan ](/BiznesPlan)
+- [Əlaqə](#Əlaqə)
 
 Ugurlar! <br /> 
 
