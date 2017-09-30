@@ -2,8 +2,8 @@
 
 Dəyərli Ideya sahibi,
 
-Layihəni Paylaşmaqda məqsədimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla gorüşə daha hazırlıqlı çıxması üçündür.
-Əsasən, ATV telekanalında yayımlanan Ideyaqazandı verlişini hədəfləsə də, layihənizdə maraqlı olan istənilən investor üçün istifadə oluna biler.
+Layihəni Paylaşmaqda məqsədimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla görüşə daha hazırlıqlı çıxması üçündür.
+Əsasən, ATV telekanalında yayımlanan Ideyaqazandı verlişini hədəfləsə də, layihənizdə maraqlı olan istənilən investor üçün istifadə oluna bilər.
 
 - [Biz kimik?](#biz-kimik)
 - [Əlaqə](#Əlaqə)
