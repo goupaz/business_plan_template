@@ -1,5 +1,7 @@
 ## Layihə Komandamız
 
+Layihəmizin uğurlu bir biznesə çevrilməsi üçün lazım olan əsas tələblərə( güclü komanda, ideya, müştəri, bacarıq) cavab verdiyimizi düşünürük:
+
 |No| Ad | Vəzifə |Etraflı|
 |------|-------|---------|---------|
 |1| Şəhriyar Məmmədov |Layihə Rəhbəri|
