@@ -40,7 +40,7 @@ Linkedin: https://www.linkedin.com/in/gunay-nemetova-23719161/
 Toxunma İşləri, Muncuq işləri, Qablaşdırma  üzrə mütəxəssis , Rəssam.
 
 ### Əhmədzadə Coşqun, _Texniki mütəxəssis_
-Dizayner lekal hazırlama VƏ digər dizayn işləri üzrə mütəxəssis. 
+Dizayner lekal hazırlama və digər dizayn işləri üzrə mütəxəssis. 
 
 Linkedin: https://www.linkedin.com/in/joshgunbay/
 
