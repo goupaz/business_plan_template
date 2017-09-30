@@ -1,4 +1,6 @@
-
+| Name | Leads | Mailing List | Example Topics |
+|------|-------|---------|----------|
+| Core | Sven Mawson (Google), Louis Ryan (Google), Martin Taillefer (Google), Shriram Rajagopalan (IBM), Dan Berg (IBM) | [istio-core@](https://groups.google.com/forum/#!forum/istio-core) | Configuration, Performance, Stability |
                   
 
 
