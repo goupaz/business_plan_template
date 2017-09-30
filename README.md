@@ -11,5 +11,12 @@ Muellif Huquqlari DNART startup ina mexsusdur.
 
 
 Hormetle,
+DNART
 
+#Haqqimizda
+
+'''
 https://www.facebook.com/artofdn/
+Mob: +994556104823
+
+'''
