@@ -28,6 +28,7 @@ Dünya bazarında Azərbaycan brendini uğurla təmsil etmək. <br />
 Hədəflərimiz çox sadədir səhmdarlarımızda  gəlirli biznesimizə inam yaratmaq.
 
 
+### Elaqe
 
 ```bash
 Mob: +994556104823
