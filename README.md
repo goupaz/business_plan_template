@@ -1,13 +1,13 @@
 # DNART - Do Natural Art
 
-Deyerli Ishtirakcilar,
+Dəyərli Ideya sahibi,
 
-Layiheni Paylashmaqda meqsedimiz ideyasi olan Genclerimizin(SIZIN!) Investorlarla gorushe daha hazirliqli cixmasi ucundur.
+Layihəni Paylaşmaqda meqsedimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla gorüşə daha hazirliqli cixmasi ucundur.
 Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler investor ucun istifade oluna biler.
 
 ![Alt text](Biznes_Plan_Numune.pdf?raw=true "Biznes Plan numune")
 
-- [Biz kimik?](##Haqqimizda)
+- [Biz kimik?](##Biz kimik?)
 - [Istio authorsdsads](#istio-authors)
 - [Repositories](#repositories)
 - [Issue management](#issue-management)
