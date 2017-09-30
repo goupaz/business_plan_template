@@ -5,9 +5,7 @@ Dəyərli Ideya sahibi,
 Layihəni Paylaşmaqda meqsedimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla gorüşə daha hazirliqli cixmasi ucundur.
 Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler investor ucun istifade oluna biler.
 
-![Alt text](Biznes_Plan_Numune.pdf?raw=true "Biznes Plan numune")
-
-- [Biz kimik?](##Biz-kimik?)
+- [Biz kimik?](#Biz-kimik?)
 - [Əlaqə](#Əlaqə)
 - [Məhsullar](#repositories)
 - [Qiymətlər](#issue-management)
