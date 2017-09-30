@@ -2,12 +2,11 @@
 
 Deyerli Ishtirakcilar,
 
-Biznes Plani oz biznesinize uygun deyishe bilersiniz. Paylashmaqda meqsed 
-Yerli Startupcilarin Investorlarla gorushe daha hazirliqli cixmasi ucundur.
+Layiheni Paylashmaqda meqsedimiz ideyasi olan Genclerimizin(SIZIN!) Investorlarla gorushe daha hazirliqli cixmasi ucundur.
 Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler investor ucun istifade oluna biler.
+Eyni zamanda, layihede maraqli olan investor ve komandamiza qoshulmaq isteyen genclerle istenilen emekdashliqda maraqliyiq.
 
 
-Muellif Huquqlari DNART startup ina mexsusdur. 
 © 2017 DNART. Bütün hüquqlar qorunur.
 
 
