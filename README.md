@@ -7,8 +7,8 @@ Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler
 
 - [Biz kimik?](#Biz-kimik?)
 - [Əlaqə](#Əlaqə)
-- [Məhsullar](#repositories)
-- [Qiymətlər](#issue-management)
+- [Məhsullar](/Mehsullar)
+- [Qiymətlər](/Mehsullar)
 - [Komandamız](#contributing-to-the-project)
 - [Biznes Plan ](#community-and-support)
 
