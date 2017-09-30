@@ -3,9 +3,9 @@
 |No| Ad | Vəzifə |Etraflı|
 |------|-------|---------|---------|
 |1| Şəhriyar Məmmədov |Layihə Rəhbəri|
-|2| Daşqın Əhmədzadə |Texniki Qrup Rəhbəri|
+|2| Tural Mehtiyev |Satış & Marketing Rəhbəri|
 |3| Gunay Nemət |Maliyyə Rəhbəri|
-|4| Tural Mehtiyev |Satış & Marketing Rəhbəri|
+|4| Daşqın Əhmədzadə |Texniki Qrup Rəhbəri|
 |5| Namazov İlqar |Texniki mütəxəsis|
 |6| Nigar Yusupova |Texniki mütəxəsis|
 |7| Əhmədzadə Coşqun |Texniki mütəxəsis|
