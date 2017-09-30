@@ -19,7 +19,7 @@ Ugurlar! <br />
 © 2017 DNART. Bütün hüquqlar qorunur.
 
 
-## Haqqimizda
+## Biz kimik?
 
 DNART layihəsi bir qrup gənc və təcrübəli komandanın ideyasıdır. Layihənin əsas məqsədi orijinal və qeyri-adi aksesuarlar və bijuteriyaları Azərbaycan brendi altında yerli və xarici bazarlara çıxarmaqdır. Artıq bir neçə il ərzində davam edən pilot layihə ərzində əldə olunan araşdırma təcrübəsi və hazırlanan məhsullar müştəri zövqünə və tələblərinə cavab verən mənfəətli biznes sahəsi olacağından xəbər verir. 
 
