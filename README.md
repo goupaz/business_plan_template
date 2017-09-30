@@ -10,8 +10,7 @@ Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler
 Muellif Huquqlari DNART startup ina mexsusdur. 
 
 
-Hormetle,
-
+Hormetle, <br /> 
 DNART
 
 ## Haqqimizda
@@ -22,7 +21,7 @@ DNART layihəsi bir qrup gənc və təcrübəli komandanın ideyasıdır. Layih�
 Fərqliliyi və özəlliyi sevən xanım və bəylərimizi yüksək keyfiyyətli və yalnız müştəri təxəyyülü ilə limitlənən məhsullarımızla daimi müştərilərimizə çevirmək.
 
 ### Vizyon
-Dünya bazarında Azərbaycan brendini uğurla təmsil etmək. 
+Dünya bazarında Azərbaycan brendini uğurla təmsil etmək. <br /> 
 18-28 yaş həddində olan gənclərimizin ən azı bir məhsulumuzdan istifadəsi.
 
 ### Obyektivlər
