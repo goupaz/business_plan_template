@@ -38,11 +38,11 @@ Mob: +994556104823
 
 ```
 
-Facebook Sehifemiz:
+_Facebook Səhifəmiz:_
 https://www.facebook.com/artofdn/
 
-Instagram Sehifemiz:
+_Instagram Səhifəmiz:_
 https://www.instagram.com/art_of_dn_/
 
-Youtube Sehifemiz:
+_Youtube Səhifəmiz:_
 https://www.youtube.com/channel/UCVyzNb1HZ8fX3pfVbuEPriw
