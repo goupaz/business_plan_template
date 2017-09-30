@@ -7,6 +7,13 @@ Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler
 
 ![Alt text](Biznes_Plan_Numune.pdf?raw=true "Biznes Plan numune")
 
+- [Introduction](#introduction)
+- [Istio authors](#istio-authors)
+- [Repositories](#repositories)
+- [Issue management](#issue-management)
+- [Contributing to the project](#contributing-to-the-project)
+- [Community and support](#community-and-support)
+
 Ugurlar! <br /> 
 
 © 2017 DNART. Bütün hüquqlar qorunur.
