@@ -5,13 +5,10 @@ Deyerli Ishtirakcilar,
 Layiheni Paylashmaqda meqsedimiz ideyasi olan Genclerimizin(SIZIN!) Investorlarla gorushe daha hazirliqli cixmasi ucundur.
 Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler investor ucun istifade oluna biler.
 
-
+Ugurlar! <br /> 
 
 © 2017 DNART. Bütün hüquqlar qorunur.
 
-
-Hormetle, <br /> 
-DNART
 
 ## Haqqimizda
 
