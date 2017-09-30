@@ -10,7 +10,7 @@ Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler
 - [Məhsullar](#repositories)
 - [Qiymətlər](#issue-management)
 - [Komandamız](#contributing-to-the-project)
-- [Faydalı ](#community-and-support)
+- [Biznes Plan ](#community-and-support)
 
 Ugurlar! <br /> 
 
