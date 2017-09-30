@@ -1,6 +1,5 @@
 |No| Ad | Vəzifə | 
 |------|-------|---------|
-
 |1| Şəhriyar Məmmədov |_Layihə Rəhbəri_|
 |2| Şəhriyar Məmmədov |_Layihə Rəhbəri_|
 |3| Şəhriyar Məmmədov |_Layihə Rəhbəri_|
