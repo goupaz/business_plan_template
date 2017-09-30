@@ -8,7 +8,7 @@ Linkedin: https://www.linkedin.com/in/shahriyarmammadov/
 
 **Daşqın Əhmədzadə**, _Texniki Qrup Rəhbəri_ - 1991 ci ildə Bakı şəhərində anadan olub. 2009-2013 cü illərədə Azərbaycan Dövlət Bədən Tərbiyəsi və İdman Akademiyasında təhsil alıb. Tələbəlik Dövründə CycleBaku da Velomexanik kimi fəaliyyət gösdərib. Hal-hazırda ATL Group da Galaxy.az sayıtının content manager vəzifəsində işləyir. Məktəb vaxtlarından əl işləri müxtəlif aksesuarların hazırlanması ilə həvəskar məşğul olub. Həmçinin Şəxsi Gun X Sword layihəsində cosplayerlər üçün silah maketlərinin hazırlamaq işi ilə məşğul olub.
 
- **Gunay Nemət**, _Maliyyə Rəhbər_ - 1989-ci il ildə anadan olub. 2006-2010 ci illərdə İqtisad Universitetinde Mühasibat Uçotundan üzrə təhsil alıb. 7 illdir maliyyə sahəsində çalışıb. 3 il KOÇ holdingə tabe olan AVİS şirkətində, 4 ildir ki, HUAWEİ şirkətində Layihələr üzrə maliyyə nəzarətçisi vəzifəsində çalışır.
+ **Gunay Nemət**, _Maliyyə Rəhbəri_ - 1989-ci il ildə anadan olub. 2006-2010 ci illərdə İqtisad Universitetinde Mühasibat Uçotundan üzrə təhsil alıb. 7 illdir maliyyə sahəsində çalışıb. 3 il KOÇ holdingə tabe olan AVİS şirkətində, 4 ildir ki, HUAWEİ şirkətində Layihələr üzrə maliyyə nəzarətçisi vəzifəsində çalışır.
  
  Linkedin: https://www.linkedin.com/in/gunay-nemetova-23719161/
 
