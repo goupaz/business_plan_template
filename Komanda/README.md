@@ -4,13 +4,13 @@ Layihəmizin uğurlu bir biznesə çevrilməsi üçün lazım olan əsas tələb
 
 |No| Ad | Vəzifə |
 |------|-------|---------|
-|1| [Şəhriyar Məmmədov]() |Layihə Rəhbəri|
-|2| [Tural Mehtiyev] |Satış & Marketing Rəhbəri|
-|3| [Gunay Nemət] |Maliyyə Rəhbəri|
-|4| [Daşqın Əhmədzadə] |Texniki Qrup Rəhbəri|
-|5| [Namazov İlqar] |Texniki mütəxəsis|
-|6| [Nigar Yusupova] |Texniki mütəxəsis|
-|7| [Əhmədzadə Coşqun] |Texniki mütəxəsis|
+|1| [Şəhriyar Məmmədov](#Şəhriyar-məmmədov-layihə-rəhbəri) |Layihə Rəhbəri|
+|2| [Tural Mehtiyev]() |Satış & Marketing Rəhbəri|
+|3| [Gunay Nemət]() |Maliyyə Rəhbəri|
+|4| [Daşqın Əhmədzadə]() |Texniki Qrup Rəhbəri|
+|5| [Namazov İlqar]() |Texniki mütəxəsis|
+|6| [Nigar Yusupova]() |Texniki mütəxəsis|
+|7| [Əhmədzadə Coşqun]() |Texniki mütəxəsis|
 
 
 
@@ -20,21 +20,27 @@ Layihəmizin uğurlu bir biznesə çevrilməsi üçün lazım olan əsas tələb
 
 Linkedin: https://www.linkedin.com/in/shahriyarmammadov/
 
-**Tural Mehtiyev**, _Satış & Marketing Rəhbəri_ - Kosmik Agentliyinin satış meneceri vəzifəsində çalışır. Milli və beynəlxalq səviyyədə bir neçə böyük və kiçik şirkətlər üçün çalışmışdır. A Good Relations Builder in  tanınmasında əvəzsiz rolu olmuşdur. Çünki müştəriləri ilə uzunmüddətli dostluq münasibətləri var. Sədaqətə inanır, həm professional və şəxsi həyatında.
+### Tural Mehtiyev, _Satış & Marketing Rəhbəri_ 
+Kosmik Agentliyinin satış meneceri vəzifəsində çalışır. Milli və beynəlxalq səviyyədə bir neçə böyük və kiçik şirkətlər üçün çalışmışdır. A Good Relations Builder in  tanınmasında əvəzsiz rolu olmuşdur. Çünki müştəriləri ilə uzunmüddətli dostluq münasibətləri var. Sədaqətə inanır, həm professional və şəxsi həyatında.
 
 Linkedin: https://www.linkedin.com/in/turalmehtiyev/
  
- **Gunay Nemət**, _Maliyyə Rəhbəri_ - 1989-ci il ildə anadan olub. 2006-2010 ci illərdə İqtisad Universitetinde Mühasibat Uçotundan üzrə təhsil alıb. 7 illdir maliyyə sahəsində çalışıb. 3 il KOÇ holdingə tabe olan AVİS şirkətində, 4 ildir ki, HUAWEİ şirkətində Layihələr üzrə maliyyə nəzarətçisi vəzifəsində çalışır.
+ ### Gunay Nemət, _Maliyyə Rəhbəri_
+1989-ci il ildə anadan olub. 2006-2010 ci illərdə İqtisad Universitetinde Mühasibat Uçotundan üzrə təhsil alıb. 7 illdir maliyyə sahəsində çalışıb. 3 il KOÇ holdingə tabe olan AVİS şirkətində, 4 ildir ki, HUAWEİ şirkətində Layihələr üzrə maliyyə nəzarətçisi vəzifəsində çalışır.
  
 Linkedin: https://www.linkedin.com/in/gunay-nemetova-23719161/
 
-**Daşqın Əhmədzadə**, _Texniki Qrup Rəhbəri_ - 1991 ci ildə Bakı şəhərində anadan olub. 2009-2013 cü illərədə Azərbaycan Dövlət Bədən Tərbiyəsi və İdman Akademiyasında təhsil alıb. Tələbəlik Dövründə CycleBaku da Velomexanik kimi fəaliyyət gösdərib. Hal-hazırda ATL Group da Galaxy.az sayıtının content manager vəzifəsində işləyir. Məktəb vaxtlarından əl işləri müxtəlif aksesuarların hazırlanması ilə həvəskar məşğul olub. Həmçinin Şəxsi Gun X Sword layihəsində cosplayerlər üçün silah maketlərinin hazırlamaq işi ilə məşğul olub.
+### Daşqın Əhmədzadə, _Texniki Qrup Rəhbəri_
+1991 ci ildə Bakı şəhərində anadan olub. 2009-2013 cü illərədə Azərbaycan Dövlət Bədən Tərbiyəsi və İdman Akademiyasında təhsil alıb. Tələbəlik Dövründə CycleBaku da Velomexanik kimi fəaliyyət gösdərib. Hal-hazırda ATL Group da Galaxy.az sayıtının content manager vəzifəsində işləyir. Məktəb vaxtlarından əl işləri müxtəlif aksesuarların hazırlanması ilə həvəskar məşğul olub. Həmçinin Şəxsi Gun X Sword layihəsində cosplayerlər üçün silah maketlərinin hazırlamaq işi ilə məşğul olub.
 
-**Namazov İlqar**, _Texniki mütəxəssis_ - 1991 ci ildə Bakı şəhərində anadan olub. 2009 - 2014 cü illərə RF Krasnodar şəhərində Kuban Dövlət Texnaloqiya Universitetində əyani şəkildə təhsil alıb. Hal hazirdada fərdi olaraq işləyir.
+### Namazov İlqar, _Texniki mütəxəssis_
+1991 ci ildə Bakı şəhərində anadan olub. 2009 - 2014 cü illərə RF Krasnodar şəhərində Kuban Dövlət Texnaloqiya Universitetində əyani şəkildə təhsil alıb. Hal hazirdada fərdi olaraq işləyir.
 
-**Nigar Yusupova**, _Texniki mütəxəssis_ - Toxunma İşləri, Muncuq işləri, Qablaşdırma  üzrə mütəxəssis , Rəssam.
+### Nigar Yusupova, _Texniki mütəxəssis_
+Toxunma İşləri, Muncuq işləri, Qablaşdırma  üzrə mütəxəssis , Rəssam.
 
-**Əhmədzadə Coşqun**, _Texniki mütəxəssis_ - Dizayner lekal hazırlama VƏ digər dizayn işləri üzrə mütəxəssis. 
+### Əhmədzadə Coşqun, _Texniki mütəxəssis_
+Dizayner lekal hazırlama VƏ digər dizayn işləri üzrə mütəxəssis. 
 
 Linkedin: https://www.linkedin.com/in/joshgunbay/
 
