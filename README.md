@@ -1,6 +1,6 @@
 # DNART - Do Natural Art
 
-Hormetli Ishtirakcilar,
+Deyerli Ishtirakcilar,
 
 Biznes Plani oz biznesinize uygun deyishe bilersiniz. Paylashmaqda meqsed 
 Yerli Startupcilarin Investorlarla gorushe daha hazirliqli cixmasi ucundur.
@@ -8,6 +8,7 @@ Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler
 
 
 Muellif Huquqlari DNART startup ina mexsusdur. 
+© 2017 DNART. Bütün hüquqlar qorunur.
 
 
 Hormetle, <br /> 
