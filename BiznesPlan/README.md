@@ -2,7 +2,11 @@
 
 # Faydalı 
 
-Əziz ideya sahibləri ilkin olaraq aşağıdakı resurslardan yararlana bilərsiniz, zamanla biznes qurarkən lazım olan faydalı məlumatlar yerləşdiriləcək. Həmçinin, siz də layihəyə dəstək olmaq istəsəniz, elaqə vasitələrimizlə bizə yaza bilərsiniz:
+Əziz Ideya sahibləri,
+
+Bəli, məhz siz iqtisadiyyatımızın inkişafı üçün əvəzolunmaz faktorsunuz! Güc birlikdədir!
+
+Ilkin olaraq aşağıdakı resurslardan yararlana bilərsiniz, zamanla biznes qurarkən lazım olan faydalı məlumatlar yerləşdiriləcək. Həmçinin, siz də layihəyə dəstək olmaq istəsəniz, elaqə vasitələrimizlə bizə yaza bilərsiniz:
 
 
 [Biznes Plan Nümunə](Biznes_Plan_Numune.pdf)<br />
