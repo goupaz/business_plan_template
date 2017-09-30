@@ -8,11 +8,11 @@ Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler
 ![Alt text](Biznes_Plan_Numune.pdf?raw=true "Biznes Plan numune")
 
 - [Biz kimik?](##Biz-kimik?)
-- [Istio authorsdsads](#istio-authors)
-- [Repositories](#repositories)
-- [Issue management](#issue-management)
-- [Contributing to the project](#contributing-to-the-project)
-- [Community and support](#community-and-support)
+- [Əlaqə](#istio-authors)
+- [Məhsullar](#repositories)
+- [Qiymətlər](#issue-management)
+- [Komandamız](#contributing-to-the-project)
+- [Faydalı ](#community-and-support)
 
 Ugurlar! <br /> 
 
@@ -34,7 +34,7 @@ Dünya bazarında Azərbaycan brendini uğurla təmsil etmək. <br />
 Hədəflərimiz çox sadədir səhmdarlarımızda  gəlirli biznesimizə inam yaratmaq.
 
 
-### Elaqe
+## Əlaqe
 
 1. Deyerli Mushterilerimiz
 2. Layihede maraqli olan investorlar
