@@ -7,7 +7,7 @@ Esasen, Ideyaqazandi verlishini hedeflese de, layihenizde maraqli olan isteniler
 
 ![Alt text](Biznes_Plan_Numune.pdf?raw=true "Biznes Plan numune")
 
-- [Introduction](#introduction)
+- Haqqımızda(#Haqqimizda)
 - [Istio authors](#istio-authors)
 - [Repositories](#repositories)
 - [Issue management](#issue-management)
