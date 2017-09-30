@@ -2,20 +2,20 @@
 
 Layihəmizin uğurlu bir biznesə çevrilməsi üçün lazım olan əsas tələblərə( güclü komanda, ideya, müştəri, bacarıq) cavab verdiyimizi düşünürük:
 
-|No| Ad | Vəzifə |Etraflı|
-|------|-------|---------|---------|
-|1| Şəhriyar Məmmədov |Layihə Rəhbəri|
-|2| Tural Mehtiyev |Satış & Marketing Rəhbəri|
-|3| Gunay Nemət |Maliyyə Rəhbəri|
-|4| Daşqın Əhmədzadə |Texniki Qrup Rəhbəri|
-|5| Namazov İlqar |Texniki mütəxəsis|
-|6| Nigar Yusupova |Texniki mütəxəsis|
-|7| Əhmədzadə Coşqun |Texniki mütəxəsis|
+|No| Ad | Vəzifə |
+|------|-------|---------|
+|1| [Şəhriyar Məmmədov]() |Layihə Rəhbəri|
+|2| [Tural Mehtiyev] |Satış & Marketing Rəhbəri|
+|3| [Gunay Nemət] |Maliyyə Rəhbəri|
+|4| [Daşqın Əhmədzadə] |Texniki Qrup Rəhbəri|
+|5| [Namazov İlqar] |Texniki mütəxəsis|
+|6| [Nigar Yusupova] |Texniki mütəxəsis|
+|7| [Əhmədzadə Coşqun] |Texniki mütəxəsis|
 
 
 
 
-**Şəhriyar Məmmədov**, _Layihə Rəhbəri_ - 1989 cu ildə Baki şəhərində anadan olub. 2007-2011 illerde Azerbaycan Dovlet Neft Akademiyasi, 2011-2013 cu illerde Qafqaz Universiteti MBA, IT Management, 2015-2017 ci illərdə Xaricdə Təhsil Proqramı ilə Fransa, Telecom Paristech Universitetində təhsil alıb. Her 3 universiteti ela qiymətlərlə GPA 4/4 ile bitirib. 7 illik 6 ölkədə iş təcrübəsi əsasən telekommunikasiya, tehlukesizlik ve bulud texnologiyalari sahəsində olub. Bakcell, ZTE, Huawei, SAP, Fraunhofer ve NGiNX şirkətlərində müxtəlif vəzifələrdə çalışıb. Paralel olaraq, Velorent, CycleBaku, DNART kimi startupların təsisçilərindən biridir və Qafqaz Universitetinde Novbeti Nesil Shebekeler ve Telekommunikasiyanin əsasları fənnini tədris edib. Hal-hazirda IT sahesi uzre Silikon Vadisinde Professional Training proqraminda ishtirak edir.
+**#Şəhriyar Məmmədov**, _Layihə Rəhbəri_ - 1989 cu ildə Baki şəhərində anadan olub. 2007-2011 illerde Azerbaycan Dovlet Neft Akademiyasi, 2011-2013 cu illerde Qafqaz Universiteti MBA, IT Management, 2015-2017 ci illərdə Xaricdə Təhsil Proqramı ilə Fransa, Telecom Paristech Universitetində təhsil alıb. Her 3 universiteti ela qiymətlərlə GPA 4/4 ile bitirib. 7 illik 6 ölkədə iş təcrübəsi əsasən telekommunikasiya, tehlukesizlik ve bulud texnologiyalari sahəsində olub. Bakcell, ZTE, Huawei, SAP, Fraunhofer ve NGiNX şirkətlərində müxtəlif vəzifələrdə çalışıb. Paralel olaraq, Velorent, CycleBaku, DNART kimi startupların təsisçilərindən biridir və Qafqaz Universitetinde Novbeti Nesil Shebekeler ve Telekommunikasiyanin əsasları fənnini tədris edib. Hal-hazirda IT sahesi uzre Silikon Vadisinde Professional Training proqraminda ishtirak edir.
 
 Linkedin: https://www.linkedin.com/in/shahriyarmammadov/
 
