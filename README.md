@@ -15,8 +15,8 @@ DNART
 
 #Haqqimizda
 
-'''
+```bash
 https://www.facebook.com/artofdn/
 Mob: +994556104823
 
-'''
+```
