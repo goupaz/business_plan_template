@@ -1,4 +1,4 @@
-#Biznesin Analizi:
+# Biznesin Analizi:
 
 ## Ugur Analizi
 1. Professional komanda və geniş əhatə dairəsi 
