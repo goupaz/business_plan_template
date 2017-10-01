@@ -1,4 +1,5 @@
-# DNART - Do Natural Art
+# DNART
+_Do Natural Art_
 
 Dəyərli Ideya sahibi,
 
