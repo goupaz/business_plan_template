@@ -4,7 +4,7 @@
 1. Professional komanda və geniş əhatə dairəsi 
 2. İqtisadi faktorlar və xaricdən gələn məhsullarda qiymət artımı 
 3. Ölkəmizə olan turist axını və əsasən Azərbaycan istehsalı özəl aksesuarlara maraq 
-4. Yerli bazarda oxşar məhsulların olmaması və ya xaricdən gətirilməsi (internet üzəri sifarişlər) və yerli rəqabətin olmaması <br />
+4. Yerli bazarda oxşar məhsulların olmaması və ya xaricdən gətirilməsi (internet üzəri sifarişlər) və rəqabətin olmaması <br />
 5. Təkrar emal olunan məhsullara artan maraq 
 6. Geniş çeşidli kolleksiya təklif etmək potensialı 
 7. Xarici bazara asanlıqla internet üzəri çıxmaq imkanı 
