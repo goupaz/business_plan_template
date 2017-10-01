@@ -54,3 +54,5 @@ https://www.instagram.com/art_of_dn_/
 
 Youtube Səhifəmiz:
 https://www.youtube.com/channel/UCVyzNb1HZ8fX3pfVbuEPriw
+
+Sorgu: https://goo.gl/forms/kC5JsNb8wPcKTuh42
