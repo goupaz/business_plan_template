@@ -1,5 +1,6 @@
-## Layihənin uğurlu olması üçün aşağıdakı faktorları sadalaya bilərik: 
+#Biznesin Analizi:
 
+## Ugur Analizi
 1. Professional komanda və geniş əhatə dairəsi 
 2. İqtisadi faktorlar və xaricdən gələn məhsullarda qiymət artımı 
 3. Ölkəmizə olan turist axını və əsasən Azərbaycan istehsalı özəl aksesuarlara maraq 
