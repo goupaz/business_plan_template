@@ -7,9 +7,9 @@ Layihəni Paylaşmaqda məqsədimiz ideyası olan Gənclərimizin(SƏNİN!) Inve
 
 - [Haqqımızda](#haqqımızda)
 - [Məhsullar](/Mehsullar/README.md#məhsullar)
-- [Komandamız](/Komanda)
-- [Biznes Plan ](/BiznesPlan)
-- [Biznes Analiz](/BiznesAnaliz)
+- [Komandamız](/Komanda/README.md)
+- [Biznes Plan ](/BiznesPlan/README.md)
+- [Biznes Analiz](/BiznesAnaliz/README.md)
 - [Əlaqə](#Əlaqə)
 
 Ugurlar! <br /> 
