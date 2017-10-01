@@ -12,20 +12,20 @@
 9. Məhsul üzəri düşən xərclərin az, gəlirin yüksək olması
 
 ## Əməkdaşlar
-Aksesuar və hədiyyə dükanları
-Poçtlar vasitəsilə çatdırılma xidmətləri
-Satış agentləri
+1. Aksesuar və hədiyyə dükanları
+2. Poçtlar vasitəsilə çatdırılma xidmətləri
+3. Satış agentləri
 
 ## Risk Analizi
-Planlaşdırılmamış əlavə xərclər
-Xammalın təchizatı ilə bağlı problemlər və gecikmə
-Daha böyük investisiyalı və bacarıqlı rəqiblərin bazara girməsi
-Qanunlarla bağlı dəyişiklik xarici və daxili bazarda
-Məzənnə ilə bağlı kəskin dəyişiklik
-İqtisadi dəyişikliklər
-Artan işçi xərcləri
-Rəqiblərin kəskin qiymət və gözlənilməz strateji qərarları
-Avadanlıqların gözlənilməz təmir xərcləri
+1. Planlaşdırılmamış əlavə xərclər
+2. Xammalın təchizatı ilə bağlı problemlər və gecikmə
+3. Daha böyük investisiyalı və bacarıqlı rəqiblərin bazara girməsi
+4. Qanunlarla bağlı dəyişiklik xarici və daxili bazarda
+5. Məzənnə ilə bağlı kəskin dəyişiklik
+6. İqtisadi dəyişikliklər
+7. Artan işçi xərcləri
+8. Rəqiblərin kəskin qiymət və gözlənilməz strateji qərarları
+9. Avadanlıqların gözlənilməz təmir xərcləri
 
 
 ## Rəqiblər
