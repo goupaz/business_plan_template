@@ -5,7 +5,7 @@ Dəyərli Ideya sahibi,
 Layihəni Paylaşmaqda məqsədimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla görüşə daha hazırlıqlı çıxması üçündür.
 Əsasən, ATV telekanalında yayımlanan Ideyaqazandı verlişini hədəfləsə də, layihənizdə maraqlı olan istənilən investor üçün istifadə oluna bilər.
 
-- [Biz kimik?](#biz-kimik)
+- [Haqqımızda](#haqqımızda)
 - [Məhsullar](/Mehsullar/README.md#məhsullar)
 - [Komandamız](/Komanda)
 - [Biznes Plan ](/BiznesPlan)
@@ -15,8 +15,9 @@ Ugurlar! <br />
 
 © 2017 DNART. Bütün hüquqlar qorunur.
 
+# Haqqımızda
 
-## Biz kimik?
+### Biz kimik?
 
 DNART layihəsi bir qrup gənc və təcrübəli komandanın ideyasıdır. Layihənin əsas məqsədi orijinal və qeyri-adi aksesuarlar və bijuteriyaları Azərbaycan brendi altında yerli və xarici bazarlara çıxarmaqdır. Artıq bir neçə il ərzində davam edən pilot layihə ərzində əldə olunan araşdırma təcrübəsi və hazırlanan məhsullar müştəri zövqünə və tələblərinə cavab verən mənfəətli biznes sahəsi olacağından xəbər verir. 
 
