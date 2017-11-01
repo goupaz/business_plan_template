@@ -5,7 +5,7 @@ Dəyərli Ideya sahibi,
 Layihəni Paylaşmaqda məqsədimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla görüşə daha hazırlıqlı çıxması üçündür.
 Əsasən, ATV telekanalında yayımlanan Ideyaqazandı verlişini hədəfləsə də, layihənizdə maraqlı olan istənilən investor üçün istifadə oluna bilər.
 
-- [Haqqımızda](#haqqımızda)
+- [Layihe Haqqinda](#haqqımızda)
 - [Məhsullar](/Mehsullar/README.md#məhsullar)
 - [Komandamız](/Komanda/README.md)
 - [Biznes Plan ](/BiznesPlan/README.md)
